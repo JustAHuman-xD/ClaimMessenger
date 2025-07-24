@@ -6,13 +6,13 @@
 
 <br>
 
-Claim Messenger is a basic plugin that will send players on your server using [PluginClaims] the claims on your server!
+Claim Messenger is a basic plugin that will send players on your server using [ClaimMaps] the claims on your server!
 
 ## Why?
 Many players may be using client-sided mods such as [Xaero's Minimap], [Xaero's WorldMap], [JourneyMap], or others.<br>
-By default these maps cannot show claims, but [ClaimMessenger] and [PluginClaims] can bridge the gap displaying claims they've travelled to or are a part of!
+By default these maps cannot show claims, but [ClaimMessenger] and [ClaimMaps] can bridge the gap displaying claims they've travelled to or are a part of!
 <br>
-Claim Messenger only sends players that register to it via [PluginClaims] allowing any players not using the mod to play as they would otherwise.
+Claim Messenger only sends players that register to it via [ClaimMaps] allowing any players not using the mod to play as they would otherwise.
 <br>
 Claim Messenger also adds nearly no performance overhead so it costs you nothing to use it!
 
@@ -91,7 +91,7 @@ Claim Messenger also adds nearly no performance overhead so it costs you nothing
 [Title]: images/title.png
 [Icon]: images/icon.png
 
-[PluginClaims]: https://github.com/JustAHuman-xD/PluginClaims
+[ClaimMaps]: https://github.com/JustAHuman-xD/ClaimMaps
 [ClaimMessenger]: https://github.com/JustAHuman-xD/ClaimMessenger
 
 [Xaero's Minimap]: https://modrinth.com/mod/xaeros-minimap
