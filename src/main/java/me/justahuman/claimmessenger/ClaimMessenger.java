@@ -99,7 +99,7 @@ public final class ClaimMessenger extends JavaPlugin {
     }
 
     public static String channel(String path) {
-        return "pluginclaims:" + path;
+        return "claimmaps:" + path;
     }
 
     public static ClaimMessenger getInstance() {
