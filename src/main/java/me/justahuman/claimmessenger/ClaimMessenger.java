@@ -29,12 +29,16 @@ public final class ClaimMessenger extends JavaPlugin {
 
     @Override
     public void onLoad() {
+        getLogger().info("Loading...");
+
         PacketEvents.setAPI(SpigotPacketEventsBuilder.build(this));
         PacketEvents.getAPI().load();
     }
 
     @Override
     public void onEnable() {
+        getLogger().info("Enabling...");
+
         instance = this;
 
         PacketEvents.getAPI().init();
